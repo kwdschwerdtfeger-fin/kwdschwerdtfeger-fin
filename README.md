@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Animation Intro -->
-  <h1> Welcome to my page !!</h1>
+  <h1> Hello and welcome to my GitHub!</h1>
 
   <!-- Typing effect using readme-typing-svg -->
   <a href="https://git.io/typing-svg">
@@ -21,8 +21,6 @@
   <a href="https://www.linkedin.com/in/kianu-schwerdtfeger-240225378-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kianu%20Schwerdtfeger-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/kwdschwerdtfeger-fin">
-    <img src="https://img.shields.io/badge/GitHub-kwdschwerdtfeger-fin-000000?logo=github&logoColor=white" alt="GitHub"/>
   <a href="mailto:kwdschwerdtfeger@google.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white" alt="Email"/>
 </a>
